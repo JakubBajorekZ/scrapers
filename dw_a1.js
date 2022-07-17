@@ -4,7 +4,7 @@ const fs = require('fs');
 const { format } = require('@fast-csv/format');
 
 const BASE_URL = 'https://learngerman.dw.com/en/deutschtrainer/c-56705009';
-const FILENAME = 'dw.csv';
+const FILENAME = 'dw_a1.csv';
 
 async function example(){
     let driver = await new Builder().forBrowser("firefox").build();
@@ -27,8 +27,8 @@ async function example(){
             let de = await entries[0].getText();
             let en = await entries[2].getText();
             console.log(`${entries.length}: ${de} -> ${en}`);
-            records.push({de: de, en: en});
-            records.push({en: en, de: de});
+            records.push({front: de, back: en});
+            records.push({front: en, back: de});
         }
     }
 

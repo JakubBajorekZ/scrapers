@@ -234,6 +234,10 @@ Ich bin verheiratet.	I'm married.
 I'm married.	Ich bin verheiratet.
 Ich bin ledig.	I'm single.
 I'm single.	Ich bin ledig.
+Ich möchte Asyl beantragen.	I would like to apply for asylum.
+I would like to apply for asylum.	Ich möchte Asyl beantragen.
+der Flüchtling, die Flüchtlinge	refugee
+refugee	der Flüchtling, die Flüchtlinge
 befristet	temporary
 temporary	befristet
 "der befristete Aufenthalt
@@ -242,6 +246,10 @@ temporary residence	"der befristete Aufenthalt
 nur Singular"
 unbefristet	permanent
 permanent	unbefristet
+"die Duldung, die Duldungen
+Plural selten"	temporary suspension of deportation
+temporary suspension of deportation	"die Duldung, die Duldungen
+Plural selten"
 "die Aufenthaltserlaubnis, die Aufenthaltserlaubnisse
 Plural selten"	residence permit
 residence permit	"die Aufenthaltserlaubnis, die Aufenthaltserlaubnisse
@@ -422,6 +430,10 @@ der Verkäufer, die Verkäufer	salesman (male)
 salesman (male)	der Verkäufer, die Verkäufer
 die Verkäuferin, die Verkäuferinnen	saleswoman (female)
 saleswoman (female)	die Verkäuferin, die Verkäuferinnen
+der Kfz-Mechatroniker, die Kfz-Mechatroniker	mechatronics engineer (male)
+mechatronics engineer (male)	der Kfz-Mechatroniker, die Kfz-Mechatroniker
+die Kfz-Mechatronikerin, die Kfz-Mechatronikerinnen	mechatronics engineer (female)
+mechatronics engineer (female)	die Kfz-Mechatronikerin, die Kfz-Mechatronikerinnen
 der Handwerker, die Handwerker	handyman / craftsman (male)
 handyman / craftsman (male)	der Handwerker, die Handwerker
 die Handwerkerin, die Handwerkerinnen	craftswoman (female)
@@ -1126,6 +1138,8 @@ nur Singular"
 nur Singular"	sparkling water
 sparkling water	"der Sprudel
 nur Singular"
+die Apfelschorle, die Apfelschorlen (nach Zahl: Apfelschorle)	apple juice spritzer
+apple juice spritzer	die Apfelschorle, die Apfelschorlen (nach Zahl: Apfelschorle)
 Eine Cola bitte!	A coke, please!
 A coke, please!	Eine Cola bitte!
 das Bier, die Biere (nach Zahl: Bier)	beer
@@ -1194,6 +1208,8 @@ der Hut, die Hüte	hat
 hat	der Hut, die Hüte
 die Mütze, die Mützen	hat
 hat	die Mütze, die Mützen
+das Kopftuch, die Kopftücher	headscarf
+headscarf	das Kopftuch, die Kopftücher
 der Schal, die Schals	scarf
 scarf	der Schal, die Schals
 der Schuh, die Schuhe	shoes
@@ -1346,12 +1362,92 @@ der Hals, die Hälse	throat
 throat	der Hals, die Hälse
 Mein Hals tut weh.	I have a sore throat.
 I have a sore throat.	Mein Hals tut weh.
+der Frauenarzt, die Frauenärzte	gynecologist (male)
+gynecologist (male)	der Frauenarzt, die Frauenärzte
+die Frauenärztin, die Frauenärztinnen	gynecologist (female)
+gynecologist (female)	die Frauenärztin, die Frauenärztinnen
+"die Regel
+hier nur Singular"	period/menstruation
+period/menstruation	"die Regel
+hier nur Singular"
+"die Tage
+hier nur Plural"	period/menstruation
+period/menstruation	"die Tage
+hier nur Plural"
+Ich habe meine Tage.	I have my period.
+I have my period.	Ich habe meine Tage.
+Ich habe starke Blutungen.	I have a heavy period.
+I have a heavy period.	Ich habe starke Blutungen.
+Ich habe Krämpfe.	I have menstrual cramps.
+I have menstrual cramps.	Ich habe Krämpfe.
+die Scheide, die Scheiden	vagina
+vagina	die Scheide, die Scheiden
+die Vagina, die Vaginen	vagina
+vagina	die Vagina, die Vaginen
+die Brust, die Brüste	breasts
+breasts	die Brust, die Brüste
+"die Gebärmutter, die Gebärmütter
+Plural selten"	uterus
+uterus	"die Gebärmutter, die Gebärmütter
+Plural selten"
+der Eierstock, die Eierstöcke	ovaries
+ovaries	der Eierstock, die Eierstöcke
+der Abstrich, die Abstriche	Pap smear
+Pap smear	der Abstrich, die Abstriche
 "der Ultraschall, die Ultraschalle
 Plural selten"	ultrasound
 ultrasound	"der Ultraschall, die Ultraschalle
 Plural selten"
+das Verhütungsmittel, die Verhütungsmittel	contraception
+contraception	das Verhütungsmittel, die Verhütungsmittel
+die Pille, die Pillen	the pill
+the pill	die Pille, die Pillen
+Nehmen Sie die Pille?	Are you on the pill? (formal)
+Are you on the pill? (formal)	Nehmen Sie die Pille?
+die Spirale, die Spiralen	IUD
+IUD	die Spirale, die Spiralen
+Haben Sie eine Spirale?	Do you have an IUD? (formal)
+Do you have an IUD? (formal)	Haben Sie eine Spirale?
+das Kondom, die Kondome	condom
+condom	das Kondom, die Kondome
+"der Geschlechtsverkehr
+nur Singular"	sexual intercourse
+sexual intercourse	"der Geschlechtsverkehr
+nur Singular"
+die Schwangerschaft, die Schwangerschaften	pregnancy
+pregnancy	die Schwangerschaft, die Schwangerschaften
+der Schwangerschaftstest, die Schwangerschaftstests	pregnancy test
+pregnancy test	der Schwangerschaftstest, die Schwangerschaftstests
+Der Schwangerschaftstest ist positiv.	The pregnancy test is positive.
+The pregnancy test is positive.	Der Schwangerschaftstest ist positiv.
+Sie sind schwanger.	You are pregnant. (formal)
+You are pregnant. (formal)	Sie sind schwanger.
+die Vorsorgeuntersuchung, die Vorsorgeuntersuchungen	prenatal screening
+prenatal screening	die Vorsorgeuntersuchung, die Vorsorgeuntersuchungen
+"der Ultraschall, die Ultraschalle
+Plural selten"	ultrasound
+ultrasound	"der Ultraschall, die Ultraschalle
+Plural selten"
+Im wievielten Monat sind Sie?	How far along are you?/When's the baby due? (formal)
+How far along are you?/When's the baby due? (formal)	Im wievielten Monat sind Sie?
+Ich bin im vierten Monat schwanger.	I'm four months pregnant.
+I'm four months pregnant.	Ich bin im vierten Monat schwanger.
+Es wird ein Junge.	It's a boy.
+It's a boy.	Es wird ein Junge.
+Es wird ein Mädchen.	It's a girl.
+It's a girl.	Es wird ein Mädchen.
+die Wehe, die Wehen	contractions
+contractions	die Wehe, die Wehen
 die Geburt, die Geburten	birth
 birth	die Geburt, die Geburten
+"die PDA, die PDAs
+Abkürzung für: Periduralanästhesie"	epidural
+epidural	"die PDA, die PDAs
+Abkürzung für: Periduralanästhesie"
+der Kaiserschnitt, die Kaiserschnitte	Caesarean section
+Caesarean section	der Kaiserschnitt, die Kaiserschnitte
+die Fehlgeburt, die Fehlgeburten	miscarriage
+miscarriage	die Fehlgeburt, die Fehlgeburten
 das Baby, die Babys	baby
 baby	das Baby, die Babys
 Mein Baby ist drei Monate alt.	My baby is three months old.
@@ -1724,6 +1820,8 @@ die URL, die URLs	internet address
 internet address	die URL, die URLs
 die Internetadresse, die Internetadressen	internet address
 internet address	die Internetadresse, die Internetadressen
+www.dw.com	www.dw.com
+www.dw.com	www.dw.com
 Das kannst du googeln.	You can google it. (informal)
 You can google it. (informal)	Das kannst du googeln.
 Ich muss eine Mail schicken.	I have to send an email.
@@ -2204,6 +2302,50 @@ toilet	die Toilette, die Toiletten
 nur Singular"	toilet paper
 toilet paper	"das Toilettenpapier
 nur Singular"
+"das Make-up
+nur Singular, aus dem Englischen"	make-up
+make-up	"das Make-up
+nur Singular, aus dem Englischen"
+Ich trage Make-up.	I wear make-up.
+I wear make-up.	Ich trage Make-up.
+"die Wimperntusche
+nur Singular"	mascara
+mascara	"die Wimperntusche
+nur Singular"
+Ich schminke meine Augen.	I'm applying eye make-up.
+I'm applying eye make-up.	Ich schminke meine Augen.
+"der Kajal
+nur Singular, alternativ: das Kajal"	eyeliner
+eyeliner	"der Kajal
+nur Singular, alternativ: das Kajal"
+der Lippenstift, die Lippenstifte	lipstick
+lipstick	der Lippenstift, die Lippenstifte
+"der Lidschatten
+nur Singular"	eye shadow
+eye shadow	"der Lidschatten
+nur Singular"
+"der Lidstrich
+nur Singular"	eyeliner
+eyeliner	"der Lidstrich
+nur Singular"
+"der Eyeliner, die Eyeliner
+aus dem Englischen"	eyeliner
+eyeliner	"der Eyeliner, die Eyeliner
+aus dem Englischen"
+"das Rouge
+nur Singular, aus dem Französischen"	rouge
+rouge	"das Rouge
+nur Singular, aus dem Französischen"
+"das Puder
+nur Singular, alternativ: der Puder"	powder
+powder	"das Puder
+nur Singular, alternativ: der Puder"
+"der Nagellack
+nur Singular"	nail polish
+nail polish	"der Nagellack
+nur Singular"
+Ich lackiere meine Nägel.	I polish my nails.
+I polish my nails.	Ich lackiere meine Nägel.
 der Friseur, die Friseure	hairdresser/hairstylist (male)
 hairdresser/hairstylist (male)	der Friseur, die Friseure
 die Friseurin, die Friseurinnen	hairdresser/hairstylist (female)
@@ -2226,6 +2368,8 @@ der Zopf, die Zöpfe	braid
 braid	der Zopf, die Zöpfe
 Ich möchte eine neue Haarfarbe.	I’d like a new hair color.
 I’d like a new hair color.	Ich möchte eine neue Haarfarbe.
+Ich möchte gerne Strähnchen haben.	I’d like to have highlights.
+I’d like to have highlights.	Ich möchte gerne Strähnchen haben.
 der Föhn, die Föhne	hair dryer
 hair dryer	der Föhn, die Föhne
 das Haarspray, die Haarsprays	hairspray
@@ -2286,6 +2430,32 @@ Auf Wiederhören!	Goodbye!
 Goodbye!	Auf Wiederhören!
 das Alphabet, die Alphabete	the alphabet
 the alphabet	das Alphabet, die Alphabete
+A, B, C	A, B, C
+A, B, C	A, B, C
+D, E, F	D, E, F
+D, E, F	D, E, F
+G, H, I	G, H, I
+G, H, I	G, H, I
+J, K, L	J, K, L
+J, K, L	J, K, L
+M, N, O	M, N, O
+M, N, O	M, N, O
+P, Q, R	P, Q, R
+P, Q, R	P, Q, R
+S, T, U	S, T, U
+S, T, U	S, T, U
+V, W, X	V, W, X
+V, W, X	V, W, X
+Y, Z	Y, Z
+Y, Z	Y, Z
+ß	ß
+ß	ß
+Ä, Ö, Ü	Ä, Ö, Ü
+Ä, Ö, Ü	Ä, Ö, Ü
+EI, AI	EI, AI
+EI, AI	EI, AI
+AU, ÄU, EU	AU, ÄU, EU
+AU, ÄU, EU	AU, ÄU, EU
 Können Sie das bitte buchstabieren?	"Can you please spell that? (formal)
   "
 "Can you please spell that? (formal)
@@ -2376,6 +2546,14 @@ der Student, die Studenten	student (male)
 student (male)	der Student, die Studenten
 die Studentin, die Studentinnen	student (female)
 student (female)	die Studentin, die Studentinnen
+die Studienberatung, die Studienberatungen	student counseling
+student counseling	die Studienberatung, die Studienberatungen
+Ich bekomme BAföG.	I get student aid. (German student financial aid program)
+I get student aid. (German student financial aid program)	Ich bekomme BAföG.
+"der Numerus clausus
+nur Singular, Abkürzung: NC"	Numerus clausus (Minimum grade point average for high school applicants)
+Numerus clausus (Minimum grade point average for high school applicants)	"der Numerus clausus
+nur Singular, Abkürzung: NC"
 Ich möchte mich für Psychologie einschreiben.	I want to enroll in psychology.
 I want to enroll in psychology.	Ich möchte mich für Psychologie einschreiben.
 das Semester, die Semester	semester
@@ -2528,6 +2706,10 @@ netto	net
 net 	netto
 Ich verdiene zu wenig Geld.	I earn too little. 
 I earn too little. 	Ich verdiene zu wenig Geld.
+die Rentenversicherung, die Rentenversicherungen	pension insurance 
+pension insurance 	die Rentenversicherung, die Rentenversicherungen
+die Arbeitslosenversicherung, die Arbeitslosenversicherungen	unemployment insurance 
+unemployment insurance 	die Arbeitslosenversicherung, die Arbeitslosenversicherungen
 "die Ferien (Plural)
 nur Plural"	vacation  
 vacation  	"die Ferien (Plural)
@@ -2602,6 +2784,10 @@ das Handy, die Handys	mobile phone
 mobile phone 	das Handy, die Handys
 der Kopfhörer, die Kopfhörer	headphone
 headphone	der Kopfhörer, die Kopfhörer
+"die Schminke, die Schminken
+Plural selten"	make-up 
+make-up 	"die Schminke, die Schminken
+Plural selten"
 das Taschentuch, die Taschentücher	handkerchief 
 handkerchief 	das Taschentuch, die Taschentücher
 "der Pass, die Pässe
@@ -2654,6 +2840,10 @@ gas	"das Benzin
 nur Singular"
 der Gebrauchtwagen, die Gebrauchtwagen	used car 
 used car 	der Gebrauchtwagen, die Gebrauchtwagen
+"der TÜV
+nur Singular, Abkürzung für: Technischer Überwachungsverein"	TÜV (German product certification institute) 
+TÜV (German product certification institute) 	"der TÜV
+nur Singular, Abkürzung für: Technischer Überwachungsverein"
 der Führerschein, die Führerscheine	driver's license 
 driver's license 	der Führerschein, die Führerscheine
 den Führerschein machen	to get a driver's license 
